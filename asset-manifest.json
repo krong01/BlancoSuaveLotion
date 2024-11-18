@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BlancoSuaveLotion/static/css/main.60e4ad41.css",
+    "main.js": "/BlancoSuaveLotion/static/js/main.c6acc49d.js",
+    "index.html": "/BlancoSuaveLotion/index.html",
+    "main.60e4ad41.css.map": "/BlancoSuaveLotion/static/css/main.60e4ad41.css.map",
+    "main.c6acc49d.js.map": "/BlancoSuaveLotion/static/js/main.c6acc49d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60e4ad41.css",
+    "static/js/main.c6acc49d.js"
+  ]
+}
